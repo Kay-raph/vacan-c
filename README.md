@@ -1,10 +1,12 @@
-# Shamba Ride (housingproject).
+# vacan-c
+Web app that connects aspiring tenants with house listers on the go
+# Vacan-C (housingproject).
 
-https://shambaride.herokuapp.com.
 
 Application workability.
 
-Applcation connects clients with houses or home vacancies to clientelle who are looking for homes or houses at places of their choice.
+
+Web app that connects aspiring tenants with house listers on the go.
 The project includes leasing housing for rental on a monthly basis and for daily basis.
 
 Project Development Pages. :

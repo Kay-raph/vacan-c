@@ -54,7 +54,4 @@ Team Members
     Phone: 0792842466
     Email: omorouniver9@gmail.com
     
-    Joylene Kirui
-    Phone: 0715247400
-    Email: joylene.c.kirui@gmail.com
 # vacan

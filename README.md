@@ -55,6 +55,6 @@ Team Members
     Email: omorouniver9@gmail.com
     
 # vacan
-<h2>Project Links</h2>
+<h2>Project Link</h2>
 https://vacan-c-cvw6.onrender.com/
 

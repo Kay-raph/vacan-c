@@ -1,4 +1,4 @@
-# vacan-c
+# Vacan-C
 Web app that connects aspiring tenants with house listers on the go
 # Vacan-C (housingproject).
 
